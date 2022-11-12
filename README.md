@@ -15,8 +15,10 @@ Just rename hidden rpyc files with the same named rpy file
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+### 0.0.2
+
+Add rpy/rpym files deletion handling
 
 ### 0.0.1
 
-Initial release of ...
+Initial release of rename-rpyc

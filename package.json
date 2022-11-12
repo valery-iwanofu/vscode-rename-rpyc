@@ -2,7 +2,7 @@
   "name": "rename-rpyc",
 	"displayName": "rename-rpyc",
 	"description": "Just rename hidden rpyc files with the same named rpy file",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.67.0"
 	},
